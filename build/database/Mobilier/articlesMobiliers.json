@@ -1,0 +1,44 @@
+{
+    "articles": [
+        {
+            "img": "./database/Mobilier/bureaux/bureau1.jpg",
+            "categorie": "bureaux",
+            "designation": "bureau",
+            "prix": 90000,
+            "caracteristiques": "Bureau complet avec composants nécessaires",
+            "id": 1
+        },
+        {
+            "img": "./database/Mobilier/canapes/canape1.jpg",
+            "categorie": "canapé",
+            "designation": "Canapé 3 places",
+            "prix": 125000,
+            "caracteristiques": "Canapé 3 places avec couleurs au choix",
+            "id": 2
+        },
+        {
+            "img": "./database/Mobilier/chaises/chaise1.jpg",
+            "categorie": "chaise",
+            "designation": "Chaise basse",
+            "prix": 6000,
+            "caracteristiques": "couleur variées en bois",
+            "id": 3
+        },
+        {
+            "img": "./database/Mobilier/ergonomes/ergo1.jpg",
+            "categorie": "ergonome",
+            "designation": "Chaise ergonomique",
+            "prix": 15000,
+            "caracteristiques": "couleur rouge noir",
+            "id": 4
+        },
+        {
+            "img": "./database/Mobilier/fauteuils/fauteuille1.jpg",
+            "categorie": "fauteuil",
+            "designation": "fauteuil 1 place",
+            "prix": 25000,
+            "caracteristiques": "couleurs variées",
+            "id": 5
+        }
+    ]
+}

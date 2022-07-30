@@ -1,0 +1,36 @@
+{
+    "articles": [
+        {
+            "img": "./database/Electronique/telephones/phone1.jpg",
+            "categorie": "téléphone",
+            "designation": "Samsung AK11",
+            "prix": 55000,
+            "caracteristiques": "32Go 2Go Ram 4G+",
+            "id": 1
+        },
+        {
+            "img": "./database/Electronique/casques/casque1.jpg",
+            "categorie": "casque",
+            "designation": "casque bluetooth",
+            "prix": 5000,
+            "caracteristiques": "couleurs variées",
+            "id": 2
+        },
+        {
+            "img": "./database/Electronique/ordinateurs/ordi1.jpg",
+            "categorie": "ordinateur",
+            "designation": "HP E200",
+            "prix": 175000,
+            "caracteristiques": "500Go Ram(4Go) 355pouces Slim",
+            "id": 3
+        },
+        {
+            "img": "./database/Electronique/televiseurs/tele1.jpg",
+            "categorie": "télévision",
+            "designation": "Ecran Plat LG",
+            "prix": 185000,
+            "caracteristiques": "355 pouces wifi intégré",
+            "id": 4
+        }
+    ]
+}

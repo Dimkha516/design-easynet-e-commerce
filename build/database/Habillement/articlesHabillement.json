@@ -1,0 +1,92 @@
+{
+    "articles": [
+        {
+            "img": "./database/Habillement/chapeaux/chap1.jpg",
+            "categorie": "chapeau",
+            "designation": "casquette",
+            "prix": 1500,
+            "caracteristiques": "couleurs variées pour homme et femme adulte",
+            "id": 1
+        },
+        {
+            "img": "./database/Habillement/chaussettes/chausse1.jpg",
+            "categorie": "chaussettes",
+            "designation": "chaussettes Blanches",
+            "prix": 800,
+            "caracteristiques": "couleurs variées pour homme et femme adulte et enfant",
+            "id": 2
+        },
+        {
+            "img": "./database/Habillement/chaussures/chauss1.jpg",
+            "categorie": "chaussure",
+            "designation": "Skarpé",
+            "prix": 3000,
+            "caracteristiques": "couleurs rouge et jaune",
+            "id": 3
+        },
+        {
+            "img": "./database/Habillement/chemises/chem1.jpg",
+            "categorie": "chemise",
+            "designation": "Chemise Noire",
+            "prix": 3500,
+            "caracteristiques": "couleur noir unique pour homme",
+            "id": 4
+        },
+        {
+            "img": "./database/Habillement/ensembles/ens1.jpg",
+            "categorie": "ensemble",
+            "designation": "ensemble homme",
+            "prix": 13500,
+            "caracteristiques": "couleurs variées pour homme avec 8 composants",
+            "id": 5
+        },
+        {
+            "img": "./database/Habillement/jeans/jean9.jpg",
+            "categorie": "Jean",
+            "designation": "Jean Bleu",
+            "prix": 4000,
+            "caracteristiques": "couleurs bleue taille xx, xxx pour homme et femme adulte",
+            "id": 6
+        },
+        {
+            "img": "./database/Habillement/lunettes/lunette3.jpg",
+            "categorie": "Lunette",
+            "designation": "Lunette anti-reflet",
+            "prix": 5000,
+            "caracteristiques": "photograis anti reflet solaire et écran",
+            "id": 7
+        },
+        {
+            "img": "./database/Habillement/montres/montre2.jpg",
+            "categorie": "montre",
+            "designation": "Montre mini-dorée",
+            "prix": 8500,
+            "caracteristiques": "Montre pour homme et femme à couleur dorée et fond blanc",
+            "id": 8
+        },
+        {
+            "img": "./database/Habillement/pulls/pull1.jpg",
+            "categorie": "pull",
+            "designation": "Pull Longue manche",
+            "prix": 6000,
+            "caracteristiques": "Pull longue manche de couleurs variées pour adulte",
+            "id": 9
+        },
+        {
+            "img": "./database/Habillement/sousvetements/sousvet1.jpg",
+            "categorie": "sous-vêtement",
+            "designation": "boxer",
+            "prix": 1800,
+            "caracteristiques": "Boxer multi-color pour adulte",
+            "id": 10
+        },
+        {
+            "img": "./database/Habillement/tshirts/tshirt4.jpg",
+            "categorie": "T-shirt",
+            "designation": "T-shirt",
+            "prix": 2500,
+            "caracteristiques": "Des Tshirt avec des couleur différentes",
+            "id": 11
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "image": "./media/electromenager.jpg",
+      "id": 1
+    },
+    {
+      "image": "./media/electronique.jpg",
+      "id": 2
+    },
+    {
+      "image": "./media/habillement.jpg",
+      "id": 3
+    },
+    {
+      "image": "./media/meuble.jpg",
+      "id": 4
+    },
+    {
+      "image": "./media/pack1.jpg",
+      "id": 5
+    },
+    {
+      "image": "./media/pantalon.jpg",
+      "id": 6
+    }
+  ]
+}

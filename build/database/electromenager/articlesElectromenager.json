@@ -1,0 +1,36 @@
+{
+    "articles": [
+        {
+            "img": "./database/Electromenager/casseroles/casserole1.jpg",
+            "categorie": "casserole",
+            "designation": "casserole mini",
+            "prix": 7000,
+            "caracteristiques": "Casserole pour soupe",
+            "id": 1
+        },
+        {
+            "img": "./database/Electromenager/cuisinieres/cuisiniere1.jpg",
+            "categorie": "cuisinière",
+            "designation": "Cuisinière 4 feux",
+            "prix": 250000,
+            "caracteristiques": "Cuisinière 4 feu avec 25voltes chaque",
+            "id": 2
+        },
+        {
+            "img": "./database/Electromenager/fours/four1.jpg",
+            "categorie": "four",
+            "designation": "Four 1 pièce",
+            "prix": 195000,
+            "caracteristiques": "Four une pièce pour chauffage rapide",
+            "id": 3
+        },
+        {
+            "img": "./database/Electromenager/frigos/frigo1.jpg",
+            "categorie": "frigo",
+            "designation": "Frigos Bar",
+            "prix": 275000,
+            "caracteristiques": "Frigo Bar 4 étages grand format",
+            "id": 4
+        }
+    ]
+}
